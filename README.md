@@ -1,4 +1,7 @@
 # ionic-wechat
+
+  目前npm上面的支付以及登陆未经过测试，所以等测试通过后会重新发布到npm上面,请大家耐心等待！！！
+
   这是一个微信cordova 插件的Typescript 转换实现，主要是为了帮助大家在ionic2及其以上版本直接调用Wechat cordova插件里面的JS方法.
   
   在此之前你需要安装 cordova-plugin-wechat插件
@@ -12,7 +15,6 @@
   share() 微信分享
   sendPaymentRequest() 微信支付
   
-  如果大家喜欢，给我一个Star吧，感谢大家的支持!!!
   
   
 
